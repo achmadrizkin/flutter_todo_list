@@ -1,6 +1,13 @@
 # ✔️ Flutter todo App "To Do List"
 
 A Flutter app based on the design of the To Do App, created by *Achmad Rizki Nur Fauzie*, 
+
+## Features
+- Responsive Apps
+- Sqlite
+- Splash Screen Animation
+and a lot of more..
+
 ## Getting Started 🚀
 
 ```shell
