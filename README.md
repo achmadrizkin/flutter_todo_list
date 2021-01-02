@@ -1,4 +1,4 @@
-# ✔️ Flutter todo App
+# ✔️ Flutter todo App "To Do List"
 
 A Flutter app based on the design of the To Do App, created by *Achmad Rizki Nur Fauzie*, 
 ## Getting Started 🚀
