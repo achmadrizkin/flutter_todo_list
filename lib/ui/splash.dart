@@ -38,7 +38,7 @@ class _SplashScreenState extends State<SplashScreen> {
       backgroundColor: Colors.white,
       body: Center(
         child: Text(
-          "Todo app.",
+          "Todo list.",
           style: new TextStyle(
               fontSize: 50.0, color: Colors.black, fontFamily: 'PopinsExBold'),
         ),
