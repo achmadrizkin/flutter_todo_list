@@ -4,7 +4,8 @@ A Flutter app based on the design of the To Do App, created by *Achmad Rizki Nur
 
 ## Features
 - Responsive Apps
-- Sqlite
+- Sqlite ( Local Management )
+- Validation
 - Splash Screen Animation
 and a lot of more..
 
