@@ -9,6 +9,12 @@ A Flutter app based on the design of the To Do App, created by *Achmad Rizki Nur
 - Splash Screen Animation
 and a lot of more..
 
+## Plugins
+- cupertino_icons: ^1.0.0
+- intl: ^0.16.1
+- path_provider: ^1.6.24
+- sqflite: ^1.3.2+1
+
 ## Getting Started 🚀
 
 ```shell
